@@ -1,0 +1,14 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+
+  //center cancas
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+}
